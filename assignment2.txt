@@ -1,0 +1,11 @@
+task2:create git hub account
+create new repostary 
+create .csv file with  friends name
+task3:create new repostary 
+create .csv file family name
+task4:create new repostary
+create .csv file with food name
+task5:create new file
+create .csv file with colours details
+task6:create new file
+create .csv file with months name
